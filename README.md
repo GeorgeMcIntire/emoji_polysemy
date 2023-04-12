@@ -10,7 +10,10 @@ In this project I use a version of BERT trained on tweets to extract contextual 
 - [Emoji Cleaning and Analysis](Emoji%20Cleaning%20and%20Analysis.ipynb) 
 Where I clean, munge, and transform the raw twitter data. Here I extract the embeddings and save them.
 - [Topics, Emoition, and Sentiment Extraction](Topics%2C%20Emotion%20and%20Sentiment%20Extraction.ipynb)
-- [EDA Effnet Genres](EDA\ Effnet\ Genres.ipynb)
-- [EDA Style Classification](EDA\ Style\ Classification.ipynb)
+Where I grab additional data used to analyze the emoji clusters. I use models hosted on huggingface to extract topics, emotions, and sentiment from the tweets.
+- [Clustering Prayer Hands Emoji](Clustering%20Prayer%20Hands%20Emoji.ipynb)
+I pick one emoji (prayer hands) to demonstrate a thorough execution of my methodology 
+- [Cluster Other Emojis](Clustering%20Other%20Emojis.ipynb)
+I create a clustering hub class (a single object that can reproduce my methodologyn from the prayer hands emoji) for the purpose analyzing other emojis.
 
 ![image](prayer_hands_tsne.png)
