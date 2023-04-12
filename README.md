@@ -2,4 +2,4 @@
 
 
 
-![image](topics.png)
+![image](prayer_hands_tsne.png)
