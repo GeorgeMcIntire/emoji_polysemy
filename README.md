@@ -7,7 +7,7 @@ In this project I use a version of BERT trained on tweets to extract contextual 
 
 ### Notebooks
 
-- [Emoji Cleaning and Analysis](Emoji%Cleaning%and%Analysis.ipynb) 
+- [Emoji Cleaning and Analysis](Emoji%20Cleaning%20and%20Analysis.ipynb) 
 Where I clean, munge, and transform the raw twitter data. Here I extract the embeddings and save them.
 - [Topics, Emoition, and Sentiment Extraction](Topics%2C%20Emotion%20and%20Sentiment%20Extraction.ipynb)
 - [EDA Effnet Genres](EDA\ Effnet\ Genres.ipynb)
